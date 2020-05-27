@@ -1,0 +1,10 @@
+.canvas-container {
+  display: grid;
+  justify-content:center;
+  .my-canvas {
+    border: 1px dashed #333;
+    background:white;
+    width:800px;
+    height: 450px;
+  }
+}
